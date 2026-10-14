@@ -1,0 +1,7 @@
+{
+  "function": {
+    "api/scanner.js":{
+      "maxDuraction": 30
+    }
+  }
+}
